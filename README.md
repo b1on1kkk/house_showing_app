@@ -18,7 +18,9 @@ First of all choose post you wanna change. Click to pencil and changing menu ope
 
 ## How can I edit photos and post we one?
 https://github.com/b1on1kkk/YandexEda-webpage/assets/114521829/463fc740-60bc-4a02-be76-5b6df4cad0f7
+
 You can do it quite easy. First off all choose picture you wanna change, click to it (picture must disappear), choose another photos you wanna post and click submit button to confirm changes
 
 https://github.com/b1on1kkk/YandexEda-webpage/assets/114521829/989795dd-2c9d-402f-b626-6a435d62ef8
+
 But if you misclick and your picture dissapear, just click pencil again to cancel changes. After that click pencil again to continue making changes.
